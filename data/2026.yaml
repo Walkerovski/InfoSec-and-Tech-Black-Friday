@@ -451,7 +451,7 @@ sections:
         notes: Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain
         via: "@ethannschwartz"
       - vendor: Spaceship
-      - url: https://www.spaceship.com/
+        url: https://www.spaceship.com/
         deal: .com for $3.60 first year
         code: "COM67"
         starts: 2026-11-02
@@ -461,7 +461,7 @@ sections:
       - vendor: Porkbun
         url: https://porkbun.com/
         deal: Rolling Black Friday deals, new drops Nov 19, 23 and 27
-        code: ""
+        code: 
         ends: 2026-12-04
         focus: general
         notes: Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop.  
