@@ -299,13 +299,13 @@ sections:
         focus: red
         taken: true
         notes: Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. 
-    - vendor: CyberWarFare Labs
-      url: https://cyberwarfare.live/
-      deal: "Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)"
-      code: "INFINITY49 (Yearly), INFINITY5 (Monthly)"
-      ends: 2026-12-01
-      focus: "Red Team, Blue Team, Cloud Security, AI Security"
-      via: "@RedTeamOperations"
+      - vendor: CyberWarFare Labs
+        url: https://cyberwarfare.live/
+        deal: "Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)"
+        code: "INFINITY49 (Yearly), INFINITY5 (Monthly)"
+        ends: 2026-12-01
+        focus: "Red Team, Blue Team, Cloud Security, AI Security"
+        via: "@RedTeamOperations"
                
   - id: labs
     title: Practical Labs
