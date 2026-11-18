@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **56 active deals** of 56 listed
 
-_Last updated: Nov 18, 2026 02:39 PST_
+_Last updated: Nov 18, 2026 02:47 PST_
 
 ## Table of contents
 
@@ -53,7 +53,6 @@ _Last updated: Nov 18, 2026 02:39 PST_
 |---|---|---|---|---|---|
 | [Blu Raven](https://academy.bluraven.io/courses) | Up to 40% off Courses | — | Nov 30 | Blue | Detection engineering and threat hunting courses, KQL-heavy. |
 | [Blue Cape Security](https://bluecapesecurity.com/training-tracks/) 💖 | $700 off HERO bundle | — | Nov 30 | Blue | Incident response training and certification. |
-| [CyberWarFare Labs](https://cyberwarfare.live/) | Certification courses $9+, bundles $29+ (up to 90% off) | — | Nov 30 | Red / Blue / AI / Cloud | Bundles include Red Team, Blue Team, AI Security, Cloud ($29–$149). More Lab offers on [CWL Infinity](https://infinity.cyberwarfare.live/). |
 | [HackTricks Training](https://hacktricks-training.com/) | 20% off courses, 15% off labs & exams, 10% off bundles | — | Nov 30 | Red |  |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue | Hands-on cybersecurity training from practitioners for practitioners. |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
@@ -66,6 +65,7 @@ _Last updated: Nov 18, 2026 02:39 PST_
 | [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
@@ -145,6 +145,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@DavidProbinsky](https://github.com/DavidProbinsky)
 - [@erh-git](https://github.com/erh-git)
 - [@Kaicastledine](https://github.com/Kaicastledine)
+- [@RedTeamOperations](https://github.com/RedTeamOperations)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
 
