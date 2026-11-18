@@ -372,6 +372,19 @@ sections:
         ends: 2026-11-30
         notes: "EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov"
         via: "@Kaicastledine"
+      - vendor: GL.iNet
+        url: https://www.gl-inet.com/en-us/pages/early-black-friday
+        deal: Up to 20% off routers, Comet remote KVMs and travel routers
+        code: 
+        starts: 2026-11-19
+        ends: 2026-11-30
+        notes: OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware.
+      - vendor: UGREEN NAS
+        url: https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals
+        deal: Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99)
+        code:
+        ends: 2026-11-30
+        notes: Bundles live now; main sale starts Nov 19. 30-day price guarantee.  
         
   - id: maker
     title: 3D Printing & Maker
@@ -398,7 +411,30 @@ sections:
         deal: Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off
         code: BFCM2026
         ends: 2026-11-30
-        used: true  
+        used: true
+      - vendor: Bambu Lab
+        url: https://us.store.bambulab.com/
+        deal: Black Friday pricing on all printers, no code needed
+        ends: 2026-12-01
+        ends_note: 2:00 AM ET
+        notes: 30-day price protection on eligible items, so buying early is low risk.
+      - vendor: Prusa
+        url: https://www.prusa3d.com/p/black-friday-2026/
+        deal: Up to $960 in free gifts with printers, up to 40% off Prusament
+        ends: 2026-11-30
+        ends_note: 11:59 PM PST
+        notes: Extras rather than price cuts. Free shipping over $200.
+      - vendor: Elegoo
+        url: https://us.elegoo.com/pages/elegoo-black-friday
+        deal: Centauri Carbon 2 Combo $369, Saturn 4 Ultra 16K $399, up to 54% off accessories
+        ends: 2026-12-01
+        ends_note: 3 AM EST
+        notes: US prices match Elegoo's Halloween sale, so not a new low.
+      - vendor: Seeed Studio
+        url: https://www.seeedstudio.com/
+        deal: $20 off every $200 on 500+ selected products
+        ends: 2026-11-30
+        notes: XIAO boards, Meshtastic/LoRa, Home Assistant kits.  
         
   - id: books
     title: Books
@@ -425,8 +461,22 @@ sections:
   - id: games
     title: Games
     emoji: 💾
-    deals: []
-
+    deals: 
+      - vendor: The Firewall Trail
+        url: https://pslorenz.github.io/firewall-trail/
+        deal: Free, always
+        evergreen: true
+        focus: Blue
+        notes: Oregon Trail–style browser game. Aurvive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues.  
+      - vendor: Steam (hacking & programming games)
+        url: https://store.steampowered.com/
+        deal: Black Friday sale — watch Hacknet (low $1.49), EXAPUNKS, Zachtronics Puzzle Pack
+        code:
+        starts: 2026-11-26
+        ends: 2026-11-30
+        ends_note: 10 AM PT
+        notes: Bitburner is free year-round. Hacknet teaches real Linux commands.
+        
   - id: services
     title: Services
     emoji: 🤝🏼
@@ -464,4 +514,16 @@ sections:
         code: 
         ends: 2026-12-04
         focus: general
-        notes: Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop.  
+        notes: Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop.
+      - vendor: 1Password
+        url: https://1password.com/
+        deal: 50% off Individual annual ($2.99/mo first year); Families $4.49/mo
+        ends: 2026-11-30
+        focus: General
+        notes: New customers, first year only. 14-day free trial, no card needed.  
+      - vendor: Tuta
+        url: https://tuta.com/black-friday
+        deal: Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1)
+        ends: 2026-11-30
+        focus: Privacy
+        notes: Encrypted email and calendar, Germany-based. New customers only.  
