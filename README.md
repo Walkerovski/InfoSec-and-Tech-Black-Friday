@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**56 active deals** of 56 listed
+**66 active deals** of 66 listed
 
-_Last updated: Nov 18, 2026 02:47 PST_
+_Last updated: Nov 18, 2026 03:47 PST_
 
 ## Table of contents
 
@@ -88,9 +88,11 @@ _Last updated: Nov 18, 2026 02:47 PST_
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
+| [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
 | [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 | Great compact homelab boxes |
+| [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
 | [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Will update when available | — | Nov 19 – Nov 30 |  |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
@@ -103,7 +105,11 @@ _Last updated: Nov 18, 2026 02:47 PST_
 | [Creality](https://store.creality.com/pages/sale) | Discount varies daily, see site | — | Nov 29 | 3D printers and accessories. |
 | [RobotShop](https://www.robotshop.com/collections/on-sale) ✨ | Discount varies daily, see site | — | Nov 29 | Robotics and electronics parts, kits and tools. |
 | [Arduino](https://store-usa.arduino.cc/collections/black-friday) ✨ | Discount varies daily, see site | — | Nov 30 |  |
+| [Prusa](https://www.prusa3d.com/p/black-friday-2026/) | Up to $960 in free gifts with printers, up to 40% off Prusament | — | Nov 30 (11:59 PM PST) | Extras rather than price cuts. Free shipping over $200. |
+| [Seeed Studio](https://www.seeedstudio.com/) | $20 off every $200 on 500+ selected products | — | Nov 30 | XIAO boards, Meshtastic/LoRa, Home Assistant kits. |
 | [SparkFun](https://www.sparkfun.com/november_deals) ✨ | Weekly deals (GNSS Nov 9–15, dev boards Nov 16–22), then 15% off SparkFun Originals Nov 23–30, max $150 off | `BFCM2026` | Nov 30 |  |
+| [Bambu Lab](https://us.store.bambulab.com/) | Black Friday pricing on all printers, no code needed | — | Dec 1 (2:00 AM ET) | 30-day price protection on eligible items, so buying early is low risk. |
+| [Elegoo](https://us.elegoo.com/pages/elegoo-black-friday) | Centauri Carbon 2 Combo $369, Saturn 4 Ultra 16K $399, up to 54% off accessories | — | Dec 1 (3 AM EST) | US prices match Elegoo's Halloween sale, so not a new low. |
 
 ## Books
 
@@ -119,13 +125,18 @@ _Last updated: Nov 18, 2026 02:47 PST_
 
 ## Games
 
-_Nothing yet. Know of a deal? See [Contribute](#contribute)._
+| Vendor | Deal | Code | Dates | Focus | Notes |
+|---|---|---|---|---|---|
+| [Steam (hacking & programming games)](https://store.steampowered.com/) | Black Friday sale — watch Hacknet (low $1.49), EXAPUNKS, Zachtronics Puzzle Pack | — | Nov 26 – Nov 30 (10 AM PT) |  | Bitburner is free year-round. Hacknet teaches real Linux commands. |
+| [The Firewall Trail](https://pslorenz.github.io/firewall-trail/) | Free, always | — | Ongoing | Blue | Oregon Trail–style browser game. Aurvive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues. |
 
 ## Services
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
+| [1Password](https://1password.com/) | 50% off Individual annual ($2.99/mo first year); Families $4.49/mo | — | Nov 30 | General | New customers, first year only. 14-day free trial, no card needed. |
 | [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off annual subscription | — | Nov 30 |  |  |
+| [Tuta](https://tuta.com/black-friday) | Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1) | — | Nov 30 | Privacy | Encrypted email and calendar, Germany-based. New customers only. |
 | [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans or 50% off the first 3 months on monthly plans (new customers) | — | Dec 1 | Cloud | Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance · via [@vanani11](https://github.com/vanani11) |
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
