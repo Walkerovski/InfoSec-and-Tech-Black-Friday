@@ -466,6 +466,12 @@ sections:
         deal: multiple codes 10% - 30% off + free gifts 
         code: ["BF10", "BF20", "BF30"]
         ends: 2026-11-29
+      - vendor: Allow Some Deny All
+        url: https://shop.allowsomedenyall.com
+        deal: "10% off orders of $20–$25; 20% off orders over $25"
+        ends: 2026-12-31
+        notes: "Discounts apply automatically at checkout. Free standard shipping on orders over $25; $2 otherwise. Cybersecurity, hacker culture, wardriving, privacy, and biohacking stickers."
+  
 
   - id: games
     title: Games
