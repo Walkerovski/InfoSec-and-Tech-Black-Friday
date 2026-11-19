@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**72 active deals** of 72 listed
+**73 active deals** of 73 listed
 
-_Last updated: Nov 19, 2026 03:43 PST_
+_Last updated: Nov 19, 2026 08:15 PST_
 
 ## Table of contents
 
@@ -67,6 +67,7 @@ _Last updated: Nov 19, 2026 03:43 PST_
 | [Red Team LLC](https://redteam.vip) | Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799 | — | Nov 30 | Red | Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1. · via [@DavidProbinsky](https://github.com/DavidProbinsky) |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
+| [SecurityPaths Academy](https://academy.securitypaths.com/courses) | 25% off Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP) | `blackfriday26` | Nov 21 – Nov 30 | Red | Formerly WiFi Challenge Academy. Wi-Fi pentesting and recon courses with labs, exam and certification. Code auto-applied at checkout. · via [@six2dez](https://github.com/six2dez) |
 | [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
@@ -166,6 +167,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@erh-git](https://github.com/erh-git)
 - [@Kaicastledine](https://github.com/Kaicastledine)
 - [@RedTeamOperations](https://github.com/RedTeamOperations)
+- [@six2dez](https://github.com/six2dez)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
 
