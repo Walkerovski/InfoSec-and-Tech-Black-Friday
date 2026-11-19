@@ -34,6 +34,15 @@ sections:
     title: Tools
     emoji: 🔨
     deals:
+      - vendor: Akev
+        url: https://akev.dev/pricing
+        deal: 30% off the Pro licence (one-time, $49 → $34.30)
+        code: "BLACKFRIDAY"
+        ends: 2026-12-06
+        ends_note: "23:59 UTC"
+        focus: Dev
+        notes: Open-source HTTP(S) debugging proxy for intercepting, mocking and rewriting traffic from browsers, apps, phones and containers.
+        via: "@akevdev"
       - vendor: AppSecD
         url: https://dedsecops.com/pricing
         deal: "30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card"
