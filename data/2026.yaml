@@ -377,6 +377,14 @@ sections:
         focus: General
         notes: Browser-based playgrounds for Linux, containers, Kubernetes and networking.
         taken: true
+      - vendor: GenAI Security Lab
+        url: https://genaisecuritylab.com/pricing
+        deal: 40% off the yearly plan and the 4-Month Pass
+        code: "BLACKFRIDAY40"
+        ends: 2026-11-30
+        ends_note: "23:59 UTC"
+        focus: Security / AI
+        notes: 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.
 
   - id: hardware
     title: Hardware
