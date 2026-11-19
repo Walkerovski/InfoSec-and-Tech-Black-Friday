@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**67 active deals** of 67 listed
+**68 active deals** of 68 listed
 
-_Last updated: Nov 18, 2026 16:09 PST_
+_Last updated: Nov 18, 2026 16:10 PST_
 
 ## Table of contents
 
@@ -120,9 +120,10 @@ _Last updated: Nov 18, 2026 16:09 PST_
 
 ## Wearables
 
-| Vendor | Deal | Code | Dates |
-|---|---|---|---|
-| [Geeksoutfit](https://www.geeksoutfit.com/) | multiple codes 10% - 30% off + free gifts | `BF10`<br>`BF20`<br>`BF30` | Nov 29 |
+| Vendor | Deal | Code | Dates | Notes |
+|---|---|---|---|---|
+| [Geeksoutfit](https://www.geeksoutfit.com/) | multiple codes 10% - 30% off + free gifts | `BF10`<br>`BF20`<br>`BF30` | Nov 29 |  |
+| [Allow Some Deny All](https://shop.allowsomedenyall.com) | 10% off orders of $20–$25; 20% off orders over $25 | — | Dec 31 | Discounts apply automatically at checkout. Free standard shipping on orders over $25; $2 otherwise. Cybersecurity, hacker culture, wardriving, privacy, and biohacking stickers. |
 
 ## Games
 
