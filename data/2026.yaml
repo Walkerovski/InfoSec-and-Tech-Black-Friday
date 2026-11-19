@@ -133,7 +133,7 @@ sections:
         ends: 2026-11-30
         focus: Red
         notes: Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. Prices in EUR.
-        via: :@epgh123"
+        via: "@epgh123"
       - vendor: Exploit Pack - Ultimate Pack + AI
         url: https://www.exploitpack.com/products/ultimate-pack-discount
         deal: Black Friday bundle €4,000
