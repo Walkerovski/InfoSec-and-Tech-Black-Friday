@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**66 active deals** of 66 listed
+**67 active deals** of 67 listed
 
-_Last updated: Nov 18, 2026 03:47 PST_
+_Last updated: Nov 18, 2026 16:09 PST_
 
 ## Table of contents
 
@@ -37,6 +37,7 @@ _Last updated: Nov 18, 2026 03:47 PST_
 |---|---|---|---|---|---|
 | [AdverseMonitor](https://adversemonitor.com/black-friday) | 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year) | — | Nov 30 (6:59 PM ET (23:59:59 UTC)) | Blue | Threat intelligence platform aimed at MSSPs. Discount applied automatically at checkout, no code. 14-day free trial, no card required. |
 | [Exploit Pack](https://www.exploitpack.com/) | ~20% off licenses and bundles. | — | Nov 30 | Red | Exploit development, C2 and kernel tooling for red teams. Prices in EUR. |
+| [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 20 – Dec 1 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
@@ -151,6 +152,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@ssecurityy](https://github.com/ssecurityy)
 - [@techkar1m](https://github.com/techkar1m)
 - [@thistehneisen](https://github.com/thistehneisen)
+- [@ludovic767](https://github.com/ludovic767)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
 - [@DavidProbinsky](https://github.com/DavidProbinsky)
