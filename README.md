@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**74 active deals** of 74 listed
+**75 active deals** of 75 listed
 
-_Last updated: Nov 19, 2026 14:20 PST_
+_Last updated: Nov 19, 2026 14:25 PST_
 
 ## Table of contents
 
@@ -50,6 +50,7 @@ _Last updated: Nov 19, 2026 14:20 PST_
 | [PortDroid](https://portdroid.net/black-friday-2026/) ✨ | 50% off PortDroid Pro | `CYBER_2026` | Dec 4 | general | Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website. |
 | [Akev](https://akev.dev/pricing) | 30% off the Pro licence (one-time, $49 → $34.30) | `BLACKFRIDAY` | Dec 6 (23:59 UTC) | Dev | Open-source HTTP(S) debugging proxy for intercepting, mocking and rewriting traffic from browsers, apps, phones and containers. · via [@akevdev](https://github.com/akevdev) |
 | [Scanify](https://scanify.to/pricing?code=BFPRO) | 50% off Pro for 3 months ($10/mo instead of $20) | `BFPRO` | Dec 9 | Blue | Link, file, QR code and IP checker with 95+ antivirus engines, domain age, redirects and a sandbox screenshot. Renews at $20/mo, cancel anytime. · via [@techkar1m](https://github.com/techkar1m) |
+| [ExposureDrift](https://exposuredrift.com) | Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder) | — | Dec 30 | Blue | Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now. · via [@rxrsec](https://github.com/rxrsec) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
 
 ## Courses & Training
@@ -156,6 +157,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 
 ## Credits
 
+- [@rxrsec](https://github.com/rxrsec)
 - [@akevdev](https://github.com/akevdev)
 - [@ssecurityy](https://github.com/ssecurityy)
 - [@techkar1m](https://github.com/techkar1m)
