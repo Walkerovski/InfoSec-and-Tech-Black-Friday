@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**69 active deals** of 69 listed
+**72 active deals** of 72 listed
 
-_Last updated: Nov 19, 2026 00:56 PST_
+_Last updated: Nov 19, 2026 03:43 PST_
 
 ## Table of contents
 
@@ -36,7 +36,10 @@ _Last updated: Nov 19, 2026 00:56 PST_
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [AdverseMonitor](https://adversemonitor.com/black-friday) | 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year) | — | Nov 30 (6:59 PM ET (23:59:59 UTC)) | Blue | Threat intelligence platform aimed at MSSPs. Discount applied automatically at checkout, no code. 14-day free trial, no card required. |
-| [Exploit Pack](https://www.exploitpack.com/) | ~20% off licenses and bundles. | — | Nov 30 | Red | Exploit development, C2 and kernel tooling for red teams. Prices in EUR. |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | ~20% off licenses and bundles. | `LIFETIME` | Nov 30 | Red | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Prices in EUR. · via [@epgh123](https://github.com/epgh123) |
+| [Exploit Pack - Control Pack](https://www.exploitpack.com/products/control-pack) | 20% off (€1,200 → €960) plus Lifetime licence | `LIFETIME` | Nov 30 | Red | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. Prices in EUR. · via [@epgh123](https://github.com/epgh123) |
+| [Exploit Pack - Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | 20% off (€1,200 → €960) plus Lifetime licence | `LIFETIME` | Nov 30 | Red | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. Prices in EUR. · via [@epgh123](https://github.com/epgh123) |
+| [Exploit Pack - Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | Black Friday bundle €4,000 | — | Nov 30 | Red | All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI. · via [@epgh123](https://github.com/epgh123) |
 | [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 20 – Dec 1 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
@@ -96,7 +99,7 @@ _Last updated: Nov 19, 2026 00:56 PST_
 | [Minis Forum](https://store.minisforum.com/pages/minisforum-black-friday) ✨ | Discount varies daily, see site | — | Nov 11 – Nov 30 | Great compact homelab boxes |
 | [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
-| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Will update when available | — | Nov 19 – Nov 30 |  |
+| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026. | — | Nov 19 – Nov 30 |  |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
 | [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
 
@@ -155,6 +158,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@ssecurityy](https://github.com/ssecurityy)
 - [@techkar1m](https://github.com/techkar1m)
 - [@thistehneisen](https://github.com/thistehneisen)
+- [@epgh123](https://github.com/epgh123)
 - [@ludovic767](https://github.com/ludovic767)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
