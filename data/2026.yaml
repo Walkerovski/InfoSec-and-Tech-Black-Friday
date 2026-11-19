@@ -342,6 +342,15 @@ sections:
         ends: 2026-12-01
         focus: "Red Team, Blue Team, Cloud Security, AI Security"
         via: "@RedTeamOperations"
+      - vendor: SecurityPaths Academy
+        url: https://academy.securitypaths.com/courses
+        deal: 25% off Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP)
+        code: "blackfriday26"
+        starts: 2026-11-21
+        ends: 2026-11-30
+        focus: Red
+        notes: Formerly WiFi Challenge Academy. Wi-Fi pentesting and recon courses with labs, exam and certification. Code auto-applied at checkout.
+        via: "@six2dez"
                
   - id: labs
     title: Practical Labs
