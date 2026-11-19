@@ -36,9 +36,10 @@ sections:
     deals:
       - vendor: ExposureDrift
         url: https://exposuredrift.com
-        deal: "Early-user pre-launch offer: 50% off for a full year + 15-day risk-free trial. Launches Dec 14"
+        deal: "Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder)"
         focus: Blue
         notes: Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now.
+        ends: 2026-12-30
         via: "@rxrsec"
       - vendor: Akev
         url: https://akev.dev/pricing
