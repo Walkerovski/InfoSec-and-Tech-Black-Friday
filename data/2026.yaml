@@ -117,7 +117,7 @@ sections:
         ends: 2026-11-30
         focus: Red
         notes: AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Prices in EUR.
-        via: @epgh123
+        via: "@epgh123"
       - vendor: Exploit Pack - Control Pack
         url: https://www.exploitpack.com/products/control-pack
         deal: 20% off (€1,200 → €960) plus Lifetime licence
@@ -125,7 +125,7 @@ sections:
         ends: 2026-11-30
         focus: Red
         notes: Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. Prices in EUR.
-        via: @epgh123
+        via: "@epgh123"
       - vendor: Exploit Pack - Kernel Pack
         url: https://www.exploitpack.com/products/kernel-pack
         deal: 20% off (€1,200 → €960) plus Lifetime licence
@@ -133,7 +133,7 @@ sections:
         ends: 2026-11-30
         focus: Red
         notes: Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. Prices in EUR.
-        via: @epgh123
+        via: :@epgh123"
       - vendor: Exploit Pack - Ultimate Pack + AI
         url: https://www.exploitpack.com/products/ultimate-pack-discount
         deal: Black Friday bundle €4,000
@@ -141,7 +141,7 @@ sections:
         ends: 2026-11-30
         focus: Red
         notes: All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI.
-        via: @epgh123  
+        via: "@epgh123"  
       - vendor: AdverseMonitor
         url: https://adversemonitor.com/black-friday
         deal: 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year)
