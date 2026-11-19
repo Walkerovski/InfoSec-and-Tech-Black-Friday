@@ -111,12 +111,37 @@ sections:
         used: true
         notes: Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website.
       - vendor: Exploit Pack
-        url: https://www.exploitpack.com/
+        url: https://www.exploitpack.com/products/exploit-pack
         deal: ~20% off licenses and bundles.
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Prices in EUR.
+        via: @epgh123
+      - vendor: Exploit Pack - Control Pack
+        url: https://www.exploitpack.com/products/control-pack
+        deal: 20% off (€1,200 → €960) plus Lifetime licence
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. Prices in EUR.
+        via: @epgh123
+      - vendor: Exploit Pack - Kernel Pack
+        url: https://www.exploitpack.com/products/kernel-pack
+        deal: 20% off (€1,200 → €960) plus Lifetime licence
+        code: "LIFETIME"
+        ends: 2026-11-30
+        focus: Red
+        notes: Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. Prices in EUR.
+        via: @epgh123
+      - vendor: Exploit Pack - Ultimate Pack + AI
+        url: https://www.exploitpack.com/products/ultimate-pack-discount
+        deal: Black Friday bundle €4,000
         code: 
         ends: 2026-11-30
         focus: Red
-        notes: Exploit development, C2 and kernel tooling for red teams. Prices in EUR.
+        notes: All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI.
+        via: @epgh123  
       - vendor: AdverseMonitor
         url: https://adversemonitor.com/black-friday
         deal: 40%–60% off the first year of any yearly plan (MSSP plans from $234 for the first year)
@@ -379,7 +404,7 @@ sections:
         used: true
       - vendor: Yubico
         url: https://www.yubico.com/us/store/2026/black-friday-sale/
-        deal: Will update when available
+        deal: Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026.
         starts: 2026-11-19
         ends: 2026-11-30
         used: true  
