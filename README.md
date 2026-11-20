@@ -15,7 +15,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **82 active deals** of 82 listed
 
-_Last updated: Nov 20, 2026 03:21 PST_
+_Last updated: Nov 20, 2026 04:02 PST_
+
+_Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
 ## Table of contents
 
@@ -161,6 +163,14 @@ _Last updated: Nov 20, 2026 03:21 PST_
 ## Contribute
 
 Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) has the format, and it's only a few lines of YAML. Please don't edit this README directly, since it's generated. No affiliate or tracking links.
+
+## Machine-readable feed
+
+Building something with this list? Use [`data/2026.json`](data/2026.json) instead of scraping the README. It has the same deals, an `ended` flag for expired ones, and it updates with every build. Content is CC BY 4.0, so please credit this repo.
+
+## License
+
+Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in `data/` is [CC BY 4.0](LICENSE-data): reuse it freely, just credit this repo.
 
 ## Credits
 
