@@ -166,6 +166,23 @@ sections:
         focus: Blue
         notes: "Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing."
         via: "@ludovic767"
+	- vendor: Burp Bounty Pro
+	  url: https://bountysecurity.ai/products/burp-bounty
+	  deal: 40% off the first year of the yearly plan
+	  code: "BLACKFRIDAY26"
+	  ends: 2026-12-03
+	  focus: Red
+	  notes: Burp Suite extension that turns your methodology into automated vulnerability checks, with a visual profile editor, Smart Scan rules, multi-step scans and an optional AI Scanner. Requires Burp Suite Professional. Includes Burp Bounty Server.
+	  via: "@wagiro"
+	- vendor: Burp Bounty Server
+	  url: https://bountysecurity.ai/pages/burp-bounty-server
+	  deal: 40% off the first year of the yearly plan
+	  code: "BLACKFRIDAY26"
+	  ends: 2026-12-03
+	  focus: Red
+	  notes: Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.
+	  via: "@wagiro"
+
         
   - id: courses
     title: Courses & Training
