@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import os
 import re
 import sys
@@ -29,6 +30,9 @@ DATA_DIR = ROOT / "data"
 TEMPLATE_DIR = ROOT / "templates"
 README = ROOT / "README.md"
 ARCHIVE_DIR = ROOT / "archive"
+FEED_SCHEMA_VERSION = 1
+FEED_SOURCE = "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday"
+FEED_LICENSE = "CC-BY-4.0"  
 
 # Deals are treated as expired once this time zone's calendar passes their end date.
 # Pacific is the safe choice: most vendors end sales at midnight PT or earlier.
@@ -552,6 +556,51 @@ def write_if_changed(path: Path, content: str) -> bool:
     path.write_text(content, encoding="utf-8")
     return True
 
+def build_feed(doc, today: dt.date, generated: str) -> dict:
+    """Machine-readable copy of the live list. Uses the same expiry rule as the README."""
+    deals = []
+    for section in doc["sections"]:
+        for d in section["deals"]:
+            deals.append({
+                "section": section["id"],
+                "section_title": section["title"],
+                "vendor": d["vendor"],
+                "url": d["url"],
+                "deal": d["deal"],
+                "codes": d["codes"],
+                "starts": d["starts"].isoformat() if d["starts"] else None,
+                "ends": d["ends"].isoformat() if d["ends"] else None,
+                "ends_note": d["ends_note"] or None,
+                "evergreen": d["evergreen"],
+                "ended": is_expired(d, today, archive=False),
+                "focus": d["focus"] or None,
+                "notes": d["notes"] or None,
+                "via": d["via"] or None,
+                "taken": d["taken"],
+                "used": d["used"],
+            })
+    feed = {"schema_version": FEED_SCHEMA_VERSION, "year": doc["year"], "source": FEED_SOURCE}
+    if FEED_LICENSE:
+        feed["license"] = FEED_LICENSE
+    feed["generated"] = generated
+    feed["deals"] = deals
+    return feed
+
+
+def write_json_if_changed(path: Path, feed: dict) -> bool:
+    """Like write_if_changed: skip the write when only 'generated' would differ."""
+    if path.exists():
+        try:
+            old = json.loads(path.read_text(encoding="utf-8"))
+        except ValueError:
+            old = None
+        if isinstance(old, dict):
+            old.pop("generated", None)
+            if old == {k: v for k, v in feed.items() if k != "generated"}:
+                return False
+    path.write_text(json.dumps(feed, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return True
+
 
 # --------------------------------------------------------------------------- main
 
@@ -622,6 +671,10 @@ def main(argv=None) -> int:
     changed = []
     if write_if_changed(README, render(docs[current], readme_template, today, updated, False, past)):
         changed.append("README.md")
+    feed_path = DATA_DIR / f"{current}.json"
+    generated = now.astimezone(dt.timezone.utc).isoformat(timespec="seconds")
+    if write_json_if_changed(feed_path, build_feed(docs[current], today, generated)):
+        changed.append(str(feed_path.relative_to(ROOT)))  
     for year in past:
         out = ARCHIVE_DIR / f"{year}.md"
         if write_if_changed(out, render(docs[year], archive_template, today, updated, True, [])):
