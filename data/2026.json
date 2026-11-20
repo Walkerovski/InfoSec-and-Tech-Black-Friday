@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-20T15:30:16+00:00",
+  "generated": "2026-11-20T15:32:54+00:00",
   "deals": [
     {
       "section": "tools",
@@ -870,6 +870,24 @@
       "used": false
     },
     {
+      "section": "courses",
+      "section_title": "Courses & Training",
+      "vendor": "INE",
+      "url": "https://learn.ine.com/2026-black-friday-promotions",
+      "deal": "Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers",
+      "codes": [],
+      "starts": "2026-11-20",
+      "ends": "2026-12-01",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Red / Blue / Networking",
+      "notes": "Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
       "section": "labs",
       "section_title": "Practical Labs",
       "vendor": "LabEx Pro (1 Year)",
@@ -943,24 +961,6 @@
       "ended": false,
       "focus": "Security / AI",
       "notes": "200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.",
-      "via": null,
-      "taken": false,
-      "used": false
-    },
-    {
-      "section": "labs",
-      "section_title": "Practical Labs",
-      "vendor": "INE",
-      "url": "https://learn.ine.com/2026-black-friday-promotions",
-      "deal": "Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers",
-      "codes": [],
-      "starts": "2026-11-20",
-      "ends": "2026-12-01",
-      "ends_note": null,
-      "evergreen": false,
-      "ended": false,
-      "focus": "Red / Blue / Networking",
-      "notes": "Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded.",
       "via": null,
       "taken": false,
       "used": false

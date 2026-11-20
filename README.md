@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **83 active deals** of 83 listed
 
-_Last updated: Nov 20, 2026 07:30 PST_
+_Last updated: Nov 20, 2026 07:32 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -78,6 +78,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% off hacking labs and certifications | — | Nov 30 | Red |  |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
+| [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue / Networking | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
@@ -94,7 +95,6 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 |---|---|---|---|---|---|
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | 40% off the yearly plan and the 4-Month Pass | `BLACKFRIDAY40` | Nov 30 (23:59 UTC) | Security / AI | 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout. |
 | [Iximiuz Labs](https://labs.iximiuz.com/) 💖 | Discounted Lifetime and Annual Subscriptions | — | Nov 30 | General | Browser-based playgrounds for Linux, containers, Kubernetes and networking. |
-| [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue / Networking | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
 | [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | 30% off one-year membership | `2026BF30` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 | [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | 50% off two-year membership | `2026BF50` | Dec 7 | Security / Linux / DevOps / Cloud | Browser-based hands-on labs. Available to new and existing users; code is active now. |
 
