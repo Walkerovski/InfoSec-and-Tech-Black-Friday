@@ -72,6 +72,9 @@ AFFILIATE_DOMAINS = {"sjv.io", "pxf.io", "awin1.com", "shareasale.com", "linksyn
                      "go2cloud.org"}
 SHORTENER_DOMAINS = {"bit.ly", "tinyurl.com", "biturl.top", "t.co", "ow.ly", "buff.ly",
                      "rebrand.ly", "cutt.ly", "is.gd", "shorturl.at", "lnkd.in", "t.ly"}
+# Raw payment/checkout links: a real deal points at the vendor's page, not a pay-a-stranger link.
+PAYMENT_LINK_DOMAINS = {"buy.stripe.com", "checkout.stripe.com", "paypal.me", "paypal.com",
+                        "cash.app", "venmo.com", "ko-fi.com", "buymeacoffee.com"}
 
 # GitHub usernames: letters, digits and single hyphens, no leading/trailing hyphen, max 39 chars.
 GITHUB_HANDLE = re.compile(r"^(?!-)(?!.*--)[A-Za-z0-9-]{1,39}(?<!-)$")
@@ -172,6 +175,9 @@ def check_url(url: str, file: str, where: str, problems: Problems) -> bool:
     if host_in(host, SHORTENER_DOMAINS):
         problems.add(file, where, f"{host} is a link shortener; use the full vendor link so readers "
                                   "can see where it goes")
+        return False
+    if host_in(host, PAYMENT_LINK_DOMAINS):
+        problems.add(file, where, f"{host} is a payment link; link to the vendor's own deal page")
         return False
     tracking = sorted({key for key, _ in parse_qsl(parsed.query, keep_blank_values=True)
                        if key.lower() in TRACKING_PARAMS
