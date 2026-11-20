@@ -273,24 +273,17 @@ sections:
         focus: Red
       - vendor: VantagePoint
         url: https://vantagepoint.enciphers.com/
-        deal: 70% of hacking labs and certifications
+        deal: 70% off hacking labs and certifications
         code: 
         ends: 2026-11-30
         focus: Red  
       - vendor: RedTeamLeaders
         url: https://courses.redteamleaders.com/catalog
-        deal: 50% of hacking labs and certifications
+        deal: 50% off hacking labs and certifications
         code: "BLACKFRIDAY50"
         ends: 2026-11-30
         focus: Red
         notes: Pricing in Brazilian Real, verified discounts. DYOR. 
-      - vendor: RedTeamLeaders
-        url: https://courses.redteamleaders.com
-        deal: 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA
-        code: "NEXTSTEP100"
-        ends: 2026-11-30
-        focus: Red
-        notes: Pricing in Brazilian Real, verified discounts. DYOR.
       - vendor: pwn.guide
         url: https://pwn.guide
         deal: 20% off plans
@@ -305,6 +298,20 @@ sections:
         focus: Blue
         notes: Incident response training and certification.
         taken: true
+      - vendor: The SecOps Group (PentestingExams)
+        url: https://pentestingexams.com/
+        deal: 90% off all pentesting certification exams
+        code: BF-90
+        ends: 2026-11-30
+        focus: Red
+        notes: Exam vouchers only, not training. Discount is big enough to DYOR on the exam terms.
+      - vendor: Modern Security
+        url: https://www.modernsecurity.io/
+        deal: 20% off the Certified AI Security Expert (MSec-CAIS) certification
+        code: msec-blackfriday20
+        ends: 2026-11-30  
+        focus: Security / AI
+        notes: Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout.  
       - vendor: TheXero Training Academy
         url: https://training.thexero.co.uk/
         deal: 67% off Wireless Operator course
@@ -540,7 +547,7 @@ sections:
         deal: Free, always
         evergreen: true
         focus: Blue
-        notes: Oregon Trail–style browser game. Aurvive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues.  
+        notes: Oregon Trail–style browser game. Survive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues.  
       - vendor: Steam (hacking & programming games)
         url: https://store.steampowered.com/
         deal: Black Friday sale — watch Hacknet (low $1.49), EXAPUNKS, Zachtronics Puzzle Pack
@@ -600,3 +607,29 @@ sections:
         ends: 2026-11-30
         focus: Privacy
         notes: Encrypted email and calendar, Germany-based. New customers only.  
+      - vendor: Incogni
+        url: https://incogni.com/
+        deal: 58% off annual plans
+        code: "BFCM26"
+        ends: 2026-12-04
+        focus: Privacy
+        notes: Data broker removal service. Useful for exec and personal exposure reduction.
+      - vendor: DeleteMe
+        url: https://joindeleteme.com/
+        deal: 20% off privacy plans for new members
+        code: BFCM2026
+        ends: 2026-11-30
+        focus: Privacy
+        notes: Data broker removal service. New members only.
+      - vendor: Proton Pass
+        url: https://proton.me/pass
+        deal: 60% off Pass Plus
+        ends: 2026-11-30   
+        focus: Privacy
+        notes: Password manager with hide-my-email aliases.
+      - vendor: Keeper Security
+        url: https://www.keepersecurity.com/
+        deal: 40% off personal plans
+        ends: 2026-12-01
+        focus: General
+        notes: Personal plans only, not business.  
