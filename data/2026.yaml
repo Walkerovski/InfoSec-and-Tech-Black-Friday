@@ -53,8 +53,8 @@ sections:
       - vendor: AppSecD
         url: https://dedsecops.com/pricing
         deal: "30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card"
-        starts: 2026-11-20
-        ends: 2026-12-01
+        starts: 2026-11-17
+        ends: 2026-12-31
         focus: Blue
         notes: "All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code."
         via: "@ssecurityy"
