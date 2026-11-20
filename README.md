@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**82 active deals** of 82 listed
+**83 active deals** of 83 listed
 
-_Last updated: Nov 20, 2026 04:05 PST_
+_Last updated: Nov 20, 2026 07:26 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -45,6 +45,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
+| [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Breach](https://breach.offseq.com/#pricing) | 50% off the first billing period of any paid plan | `BLACK` | Dec 2 | Blue | Leaked-credential monitoring for your domains across breach datasets, forums and Telegram. Free start. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Pulse](https://pulse.offseq.com/pricing) | 50% off the first year or first month for new customers | — | Dec 2 | Blue | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. First 2 devices free. · via [@thistehneisen](https://github.com/thistehneisen) |
