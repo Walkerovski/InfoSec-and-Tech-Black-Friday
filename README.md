@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **82 active deals** of 82 listed
 
-_Last updated: Nov 20, 2026 04:02 PST_
+_Last updated: Nov 20, 2026 04:05 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -44,7 +44,6 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Exploit Pack - Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | Black Friday bundle €4,000 | — | Nov 30 | Red | All-in-one offensive-security suite combining Exploit Pack, Control Pack and Kernel Pack with integrated AI. · via [@epgh123](https://github.com/epgh123) |
 | [Noviscan](https://secufor.net/black-week/) | 30-day free trial of Noviscan® Premium, then €9.90 a month | `BLACKFRIDAY26` | Nov 23 – Nov 30 | Blue | Face recognition for your IP cameras. Faces are analysed on your computer, and Noviscan warns you when a face it does not know shows up. Windows, macOS or Linux. New Premium subscribers, once per account, monthly plan. A card is asked at sign-up; nothing is charged during the trial. Cancel before it ends to pay nothing. · via [@ludovic767](https://github.com/ludovic767) |
 | [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off the first 3 months of any plan | `BFCM2026` | Nov 30 | Blue | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. Free plan (1 honeypot) plus the free CC BY 4.0 Mirage Feed. · via [@thistehneisen](https://github.com/thistehneisen) |
-| [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 20 – Dec 1 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Guard by OffSeq](https://guard.report/monitoring) | 50% off the full report and the first month of monitoring | — | Dec 1 | Blue | Website security and NIS2/GDPR compliance scanning with continuous monitoring. Free scan, results in minutes. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Breach](https://breach.offseq.com/#pricing) | 50% off the first billing period of any paid plan | `BLACK` | Dec 2 | Blue | Leaked-credential monitoring for your domains across breach datasets, forums and Telegram. Free start. · via [@thistehneisen](https://github.com/thistehneisen) |
@@ -55,6 +54,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Akev](https://akev.dev/pricing) | 30% off the Pro licence (one-time, $49 → $34.30) | `BLACKFRIDAY` | Dec 6 (23:59 UTC) | Dev | Open-source HTTP(S) debugging proxy for intercepting, mocking and rewriting traffic from browsers, apps, phones and containers. · via [@akevdev](https://github.com/akevdev) |
 | [Scanify](https://scanify.to/pricing?code=BFPRO) | 50% off Pro for 3 months ($10/mo instead of $20) | `BFPRO` | Dec 9 | Blue | Link, file, QR code and IP checker with 95+ antivirus engines, domain age, redirects and a sandbox screenshot. Renews at $20/mo, cancel anytime. · via [@techkar1m](https://github.com/techkar1m) |
 | [ExposureDrift](https://exposuredrift.com) | Early-user pre-launch offer: 50% off for a full year for the first 100 users + 15-day risk-free trial. Launches Dec 14 (end date is a placeholder) | — | Dec 30 | Blue | Continuous attack surface management - JS secret scanning, outside-in API inventory and exposure monitoring. Free DNS, headers/TLS audits and CVE/ransomware trackers available now. · via [@rxrsec](https://github.com/rxrsec) |
+| [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans — Starter $20 → $14/mo, Team $50 → $35/mo, Premium $200 → $140/mo, Scale $500 → $350/mo; plus a free 14-day evaluation, no card | — | Nov 17 – Dec 31 | Blue | All-in-one application security — SAST (20+ languages), DAST, SCA, secret scanning, IaC/container/Kubernetes/API testing, deduplicated with AI triage and gated in the pull request. Auto-applied at checkout, no code. · via [@ssecurityy](https://github.com/ssecurityy) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
 
 ## Courses & Training
