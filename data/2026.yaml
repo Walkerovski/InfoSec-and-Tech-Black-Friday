@@ -182,14 +182,7 @@ sections:
         focus: Red
         notes: Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.
         via: "@wagiro"
-      - vendor: INE
-        url: https://learn.ine.com/2026-black-friday-promotions
-        deal: "Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers"
-        starts: 2026-11-20
-        ends: 2026-12-01
-        focus: Red / Blue
-        notes: "Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded."
-        
+      
   - id: courses
     title: Courses & Training
     emoji: 🎓
@@ -422,7 +415,14 @@ sections:
         ends_note: "23:59 UTC"
         focus: Security / AI
         notes: 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.
-
+      - vendor: INE
+        url: https://learn.ine.com/2026-black-friday-promotions
+        deal: "Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers"
+        starts: 2026-11-20
+        ends: 2026-12-01
+        focus: Red / Blue / Networking
+        notes: "Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded."
+        
   - id: hardware
     title: Hardware
     emoji: 🔧
