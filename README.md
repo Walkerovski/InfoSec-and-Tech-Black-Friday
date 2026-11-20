@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**75 active deals** of 75 listed
+**80 active deals** of 80 listed
 
-_Last updated: Nov 19, 2026 14:25 PST_
+_Last updated: Nov 19, 2026 17:55 PST_
 
 ## Table of contents
 
@@ -62,16 +62,17 @@ _Last updated: Nov 19, 2026 14:25 PST_
 | [HackTricks Training](https://hacktricks-training.com/) | 20% off courses, 15% off labs & exams, 10% off bundles | — | Nov 30 | Red |  |
 | [Just Hacking Training](https://www.justhacking.com/types/courses-and-paths) | 25% off | `BFF25` | Nov 30 | Red/Blue | Hands-on cybersecurity training from practitioners for practitioners. |
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
+| [Modern Security](https://www.modernsecurity.io/) | 20% off the Certified AI Security Expert (MSec-CAIS) certification | `msec-blackfriday20` | Nov 30 | Security / AI | Vendor page uses msec-blackfriday20; some trackers list msec-bf20. Try both at checkout. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
 | [PwnedLabs](https://pwnedlabs.io/) 💖 | 25% off boot camps and subscriptions | `BLACKFRIDAY25` | Nov 30 | red | Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. |
 | [Red Team LLC](https://redteam.vip) | Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799 | — | Nov 30 | Red | Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1. · via [@DavidProbinsky](https://github.com/DavidProbinsky) |
-| [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
-| [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
+| [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% off hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [SecurityPaths Academy](https://academy.securitypaths.com/courses) | 25% off Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP) | `blackfriday26` | Nov 21 – Nov 30 | Red | Formerly WiFi Challenge Academy. Wi-Fi pentesting and recon courses with labs, exam and certification. Code auto-applied at checkout. · via [@six2dez](https://github.com/six2dez) |
 | [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
+| [The SecOps Group (PentestingExams)](https://pentestingexams.com/) | 90% off all pentesting certification exams | `BF-90` | Nov 30 | Red | Exam vouchers only, not training. Discount is big enough to DYOR on the exam terms. |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
-| [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
+| [VantagePoint](https://vantagepoint.enciphers.com/) | 70% off hacking labs and certifications | — | Nov 30 | Red |  |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
@@ -137,17 +138,21 @@ _Last updated: Nov 19, 2026 14:25 PST_
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [Steam (hacking & programming games)](https://store.steampowered.com/) | Black Friday sale — watch Hacknet (low $1.49), EXAPUNKS, Zachtronics Puzzle Pack | — | Nov 26 – Nov 30 (10 AM PT) |  | Bitburner is free year-round. Hacknet teaches real Linux commands. |
-| [The Firewall Trail](https://pslorenz.github.io/firewall-trail/) | Free, always | — | Ongoing | Blue | Oregon Trail–style browser game. Aurvive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues. |
+| [The Firewall Trail](https://pslorenz.github.io/firewall-trail/) | Free, always | — | Ongoing | Blue | Oregon Trail–style browser game. Survive a year in security, from the help desk to the boardroom. Full disclosure, I made this one. Bugs and feedback welcome via GitHub issues. |
 
 ## Services
 
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [1Password](https://1password.com/) | 50% off Individual annual ($2.99/mo first year); Families $4.49/mo | — | Nov 30 | General | New customers, first year only. 14-day free trial, no card needed. |
+| [DeleteMe](https://joindeleteme.com/) | 20% off privacy plans for new members | `BFCM2026` | Nov 30 | Privacy | Data broker removal service. New members only. |
 | [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off annual subscription | — | Nov 30 |  |  |
+| [Proton Pass](https://proton.me/pass) | 60% off Pass Plus | — | Nov 30 | Privacy | Password manager with hide-my-email aliases. |
 | [Tuta](https://tuta.com/black-friday) | Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1) | — | Nov 30 | Privacy | Encrypted email and calendar, Germany-based. New customers only. |
 | [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
+| [Keeper Security](https://www.keepersecurity.com/) | 40% off personal plans | — | Dec 1 | General | Personal plans only, not business. |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans or 50% off the first 3 months on monthly plans (new customers) | — | Dec 1 | Cloud | Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance · via [@vanani11](https://github.com/vanani11) |
+| [Incogni](https://incogni.com/) | 58% off annual plans | `BFCM26` | Dec 4 | Privacy | Data broker removal service. Useful for exec and personal exposure reduction. |
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
 | [Spaceship](https://www.spaceship.com/) | .com for $3.60 first year | `COM67` | Nov 2 – Dec 4 | general | Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there. |
 
