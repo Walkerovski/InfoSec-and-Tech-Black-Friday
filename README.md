@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**86 active deals** of 86 listed
+**89 active deals** of 89 listed
 
-_Last updated: Nov 21, 2026 02:05 PST_
+_Last updated: Nov 21, 2026 02:14 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -104,6 +104,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
+| [System76](https://system76.com/) | Up to $257 off selected models | — | Nov 23 | Linux laptops and desktops. US customers only. |
 | [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
 | [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
@@ -111,6 +112,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
 | [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026. | — | Nov 19 – Nov 30 |  |
+| [Zima](https://shop.zimaspace.com/) ✨ | 10-20% off ZimaBoard and ZimaCube, some with free accessories | — | Nov 30 | x86 single-board servers. Good firewall and NAS builds. |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
 | [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
 
@@ -154,7 +156,8 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 |---|---|---|---|---|---|
 | [1Password](https://1password.com/) | 50% off Individual annual ($2.99/mo first year); Families $4.49/mo | — | Nov 30 | General | New customers, first year only. 14-day free trial, no card needed. |
 | [DeleteMe](https://joindeleteme.com/) | 20% off privacy plans for new members | `BFCM2026` | Nov 30 | Privacy | Data broker removal service. New members only. |
-| [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off annual subscription | — | Nov 30 |  |  |
+| [Proton Drive](https://proton.me/drive/pricing) ✨ | 60% off Drive Plus, first year | — | Nov 30 | Privacy | Encrypted cloud storage. |
+| [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off Mail Plus or Proton Unlimited for a year; Unlimited first month $1 | — | Nov 30 |  | Mail Plus $2.49/mo, Unlimited $6.49/mo billed annually. Unlimited includes Mail, VPN, Pass, Drive. 30-day money-back guarantee. |
 | [Proton Pass](https://proton.me/pass) | 60% off Pass Plus | — | Nov 30 | Privacy | Password manager with hide-my-email aliases. |
 | [Tuta](https://tuta.com/black-friday) | Additional 12 months free on Revolutionary or Legend plans (2 years for the price of 1) | — | Nov 30 | Privacy | Encrypted email and calendar, Germany-based. New customers only. |
 | [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
