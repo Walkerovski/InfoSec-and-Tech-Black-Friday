@@ -8,25 +8,25 @@ Inclusion is at the maintainer’s discretion. VPNs, lifetime deals, and anythin
 
 ## Adding a deal
 
-1. Open [`data/2026.yaml`](data/2026.yaml) (the pencil icon on GitHub works fine).
-2. Find the right section (`tools`, `courses`, `labs`, `hardware`, `books`, `wearables`, `games`, `services`) and add an entry under its `deals:`. If the section says `deals: []`, replace the `[]` with your entry.
-3. Open a pull request. A check runs automatically and will point out any problems.
+There are two ways to add a deal.
 
-```yaml
-  - id: courses
-    title: Courses & Training
-    emoji: 🎓
-    deals:
-      - vendor: Example Academy
-        url: https://example.com/black-friday
-        deal: 40% off all courses
-        code: "BF26"
-        ends: 2026-12-02
-        focus: Blue
-        via: "@your-github-username"
-```
+**The deal form (recommended).** [Open the deal form](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/issues/new?template=deal.yml), fill in the fields, and submit. No YAML, no fork. Here's what happens next:
 
-Order doesn't matter. Tables are sorted by end date automatically.
+1. I check the deal against the vendor's own page.
+2. If it checks out, I approve it, and a bot turns it into a pull request and validates it.
+3. I review that pull request and merge it. The deal shows up on the list within a few minutes.
+
+If the automatic check finds a problem, the bot comments on your issue with what to fix.
+
+**A pull request.** If you prefer editing the data directly, add your deal to `data/<year>.yaml` using the format below and open a PR. The build validates it and tells you what to fix. Don't edit `README.md`; it's generated, and PRs that touch it will be closed.
+
+Either way, the same rules apply:
+
+- Link to the vendor's own deal or product page. No Amazon, open marketplaces, link shorteners, affiliate links, tracking parameters or direct payment site links.
+- The deal must be public and live, or have an announced start date.
+- Every deal needs an end date as published by the vendor. Year-round programs are added by hand, so open a regular discussion or mention it in your submission's notes.
+- Submitting your own product is fine. Say so in the form, or mention it in your PR description.
+- Use spaces in YAML, not tabs.
 
 ## Fields
 
