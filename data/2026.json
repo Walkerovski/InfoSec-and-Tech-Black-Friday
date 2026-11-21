@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-20T15:32:54+00:00",
+  "generated": "2026-11-21T10:05:06+00:00",
   "deals": [
     {
       "section": "tools",
@@ -888,6 +888,24 @@
       "used": false
     },
     {
+      "section": "courses",
+      "section_title": "Courses & Training",
+      "vendor": "ISC2",
+      "url": "https://www.isc2.org/training/black-friday-cyber-week-sale",
+      "deal": "10% off ISC2 courses, Express Courses and certificates; members get 20%",
+      "codes": [],
+      "starts": null,
+      "ends": "2026-12-01",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": "Training only, not exam vouchers. Applied in cart, no code.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
       "section": "labs",
       "section_title": "Practical Labs",
       "vendor": "LabEx Pro (1 Year)",
@@ -961,6 +979,24 @@
       "ended": false,
       "focus": "Security / AI",
       "notes": "200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "labs",
+      "section_title": "Practical Labs",
+      "vendor": "Zero-Point Security",
+      "url": "https://www.zeropointsecurity.co.uk/courses",
+      "deal": "40% off courses, applied at checkout",
+      "codes": [],
+      "starts": null,
+      "ends": "2026-11-30",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Red",
+      "notes": "Red team training, including CRTO. Discount applied at checkout, no code.",
       "via": null,
       "taken": false,
       "used": false
@@ -1365,6 +1401,24 @@
       "ended": false,
       "focus": null,
       "notes": "Bitburner is free year-round. Hacknet teaches real Linux commands.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "games",
+      "section_title": "Games",
+      "vendor": "TryHackMe Advent of Cyber 2026",
+      "url": "https://tryhackme.com/adventofcyber26",
+      "deal": "Free daily beginner-friendly security challenges",
+      "codes": [],
+      "starts": "2026-12-01",
+      "ends": "2026-12-24",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Red / Blue",
+      "notes": "New task daily at 4 PM GMT. Free account.",
       "via": null,
       "taken": false,
       "used": false
