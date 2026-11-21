@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-21T10:14:24+00:00",
+  "generated": "2026-11-21T10:52:38+00:00",
   "deals": [
     {
       "section": "tools",
@@ -901,6 +901,26 @@
       "ended": false,
       "focus": "Blue",
       "notes": "Training only, not exam vouchers. Applied in cart, no code.",
+      "via": null,
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "courses",
+      "section_title": "Courses & Training",
+      "vendor": "CloudBreach",
+      "url": "https://cloudbreach.io/blackfriday",
+      "deal": "30% off all courses and plans (Breaching Azure from $349, Breaching AWS from $419)",
+      "codes": [
+        "BlackFriday26"
+      ],
+      "starts": null,
+      "ends": "2026-12-07",
+      "ends_note": "23:59 EET",
+      "evergreen": false,
+      "ended": false,
+      "focus": "Red / Cloud",
+      "notes": "Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE).",
       "via": null,
       "taken": false,
       "used": false

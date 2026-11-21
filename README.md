@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**89 active deals** of 89 listed
+**90 active deals** of 90 listed
 
-_Last updated: Nov 21, 2026 02:40 PST_
+_Last updated: Nov 21, 2026 02:52 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -84,6 +84,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
+| [CloudBreach](https://cloudbreach.io/blackfriday) | 30% off all courses and plans (Breaching Azure from $349, Breaching AWS from $419) | `BlackFriday26` | Dec 7 (23:59 EET) | Red / Cloud | Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE). |
 | [Hexordia](https://learn.hexordia.com/s/store) | 35% off Hexordia classes and class vouchers | `26BF35` | Nov 23 – Dec 7 (11:59 PM ET) | Blue | Applies to on-demand and virtual live classes and to class vouchers. |
 | [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red | Offensive focused training and certifications |
 | [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
