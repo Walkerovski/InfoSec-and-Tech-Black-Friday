@@ -388,7 +388,12 @@ sections:
         ends: 2026-12-01
         focus: Red / Blue / Networking
         notes: "Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded."
-        
+      - vendor: ISC2
+        url: https://www.isc2.org/training/black-friday-cyber-week-sale
+        deal: "10% off ISC2 courses, Express Courses and certificates; members get 20%"
+        ends: 2026-12-01
+        focus: Blue
+        notes: "Training only, not exam vouchers. Applied in cart, no code."   
                
   - id: labs
     title: Practical Labs
@@ -423,6 +428,12 @@ sections:
         ends_note: "23:59 UTC"
         focus: Security / AI
         notes: 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.
+      - vendor: Zero-Point Security
+        url: https://www.zeropointsecurity.co.uk/courses
+        deal: "40% off courses, applied at checkout"
+        ends: 2026-11-30
+        focus: Red
+        notes: "Red team training, including CRTO. Discount applied at checkout, no code."  
       
   - id: hardware
     title: Hardware
@@ -580,6 +591,13 @@ sections:
         ends: 2026-11-30
         ends_note: 10 AM PT
         notes: Bitburner is free year-round. Hacknet teaches real Linux commands.
+      - vendor: TryHackMe Advent of Cyber 2026
+        url: https://tryhackme.com/adventofcyber26
+        deal: "Free daily beginner-friendly security challenges"
+        starts: 2026-12-01
+        ends: 2026-12-24   # typical run, verify
+        focus: Red / Blue
+        notes: "New task daily at 4 PM GMT. Free account."  
         
   - id: services
     title: Services
