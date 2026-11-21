@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**90 active deals** of 90 listed
+**91 active deals** of 91 listed
 
-_Last updated: Nov 21, 2026 02:52 PST_
+_Last updated: Nov 21, 2026 13:25 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -82,6 +82,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | 10% off ISC2 courses, Express Courses and certificates; members get 20% | — | Dec 1 | Blue | Training only, not exam vouchers. Applied in cart, no code. |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
+| [8kSec Academy](https://academy.8ksec.io/) | 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR) | `8KSECBLACKFRIDAY` | Dec 4 | Red / AI | via [@sandra44dev](https://github.com/sandra44dev) |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [CloudBreach](https://cloudbreach.io/blackfriday) | 30% off all courses and plans (Breaching Azure from $349, Breaching AWS from $419) | `BlackFriday26` | Dec 7 (23:59 EET) | Red / Cloud | Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE). |
@@ -197,6 +198,7 @@ Code (scripts, workflows) is [MIT](LICENSE). The list content and everything in 
 - [@Kaicastledine](https://github.com/Kaicastledine)
 - [@RedTeamOperations](https://github.com/RedTeamOperations)
 - [@six2dez](https://github.com/six2dez)
+- [@sandra44dev](https://github.com/sandra44dev)
 - [@vanani11](https://github.com/vanani11)
 - [@ethannschwartz](https://github.com/ethannschwartz)
 
