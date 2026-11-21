@@ -1,0 +1,119 @@
+name: Submit a deal
+description: Suggest a Black Friday / Cyber Monday deal for the list
+title: "[Deal] "
+labels: ["deal-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping out. A few rules before you start:
+        - Link to the vendor's own deal or product page. No Amazon, open marketplaces, link shorteners, affiliate or tracking links. Payment links (Stripe, PayPal) aren't deal pages.
+        - The deal has to be public and live, or have an announced start date.
+        - Submitting your own product is fine. Just say so below.
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Tools
+        - Courses & Training
+        - Practical Labs
+        - Hardware
+        - 3D Printing & Maker
+        - Books
+        - Wearables
+        - Games
+        - Services
+    validations:
+      required: true
+
+  - type: input
+    id: vendor
+    attributes:
+      label: Vendor
+      placeholder: "TCM Security"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Deal URL
+      description: The vendor's own deal or product page, https only.
+      placeholder: "https://example.com/black-friday"
+    validations:
+      required: true
+
+  - type: input
+    id: deal
+    attributes:
+      label: Deal
+      description: One line, what you get. Plain text.
+      placeholder: "50% off first year of Pro"
+    validations:
+      required: true
+
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      description: Leave blank if it's applied automatically. Separate multiple codes with commas.
+      placeholder: "BF26"
+
+  - type: input
+    id: starts
+    attributes:
+      label: Start date
+      description: YYYY-MM-DD. Leave blank if it's already live.
+      placeholder: "2026-11-27"
+
+  - type: input
+    id: ends
+    attributes:
+      label: End date
+      description: YYYY-MM-DD, as published by the vendor. Year-round offers are added by hand, so leave this blank and say so in Notes.
+      placeholder: "2026-11-30"
+    validations:
+      required: true
+
+  - type: input
+    id: focus
+    attributes:
+      label: Focus
+      description: Optional. Red, Blue, Red / Blue, Security / AI, Networking, etc.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional, one or two sentences. What it is, who it's for, and any catches (new customers only, US only, ends at a specific time).
+
+  - type: input
+    id: source
+    attributes:
+      label: Where was it announced?
+      description: Optional. A link to the vendor's post, email or announcement helps us verify it faster.
+
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the vendor
+      options:
+        - None, I'm just passing it along
+        - I work for or own this vendor
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I checked the list and this deal isn't already on it.
+          required: true
+        - label: I confirmed the deal is live or has an announced start date.
+          required: true
+        - label: The link has no affiliate, referral, tracking or payment links.
+          required: true
+        - label: I'm OK being credited by my GitHub username.
