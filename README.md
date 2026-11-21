@@ -15,7 +15,7 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **89 active deals** of 89 listed
 
-_Last updated: Nov 21, 2026 02:14 PST_
+_Last updated: Nov 21, 2026 02:40 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -169,7 +169,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 ## Contribute
 
-Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) has the format, and it's only a few lines of YAML. Please don't edit this README directly, since it's generated. No affiliate or tracking links.
+Know a deal that belongs here? [Submit it with the deal form](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/issues/new?template=deal.yml). Quick and no code. If you'd rather open a pull request, add it to `data/2026.yaml` and follow [CONTRIBUTING.md](CONTRIBUTING.md). Please don't edit this README directly, since it's generated. No affiliate links, tracking links, or payment links.
 
 ## Machine-readable feed
 
