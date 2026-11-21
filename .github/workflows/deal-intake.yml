@@ -1,0 +1,106 @@
+name: Deal intake
+
+# Turns an approved deal-form issue into a pull request.
+#
+# Two human gates stay in place:
+#   1. Only someone with triage access can add the 'approved' label.
+#   2. The bot opens a PR; it never commits to main. You review and merge it.
+#
+# Everything from the form is untrusted. It only ever reaches the script through
+# env: below. Never put ${{ steps.parse.outputs.* }} or the issue body inside a
+# run: block, or a crafted submission can run commands with this job's token.
+
+on:
+  issues:
+    types: [labeled]
+
+concurrency:
+  group: deal-intake
+  cancel-in-progress: false
+
+jobs:
+  intake:
+    if: >-
+      github.event.label.name == 'approved' &&
+      contains(github.event.issue.labels.*.name, 'deal-submission')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Lock the issue for the rest of the review
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: gh issue lock "$ISSUE" --repo "$GITHUB_REPOSITORY" || true
+
+      - name: Parse the form
+        id: parse
+        uses: stefanbuck/github-issue-parser@v3
+        with:
+          template-path: .github/ISSUE_TEMPLATE/deal.yml
+
+      - name: Keep main's copy for the "already ended" check
+        run: |
+          Y=$(ls data/*.yaml | grep -oE '[0-9]{4}' | sort | tail -1)
+          cp "data/$Y.yaml" /tmp/base.yaml
+
+      - name: Add the deal
+        env:
+          DEAL_JSON: ${{ steps.parse.outputs.jsonString }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python scripts/add_deal.py
+
+      # PRs opened with the default token don't trigger other workflows, so the
+      # usual PR validation won't run on the bot's PR. Validate here instead.
+      - name: Validate
+        run: python scripts/generate.py --validate --base /tmp/base.yaml 2>&1 | tee validate.log
+
+      - name: Open the pull request
+        id: pr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: deal/issue-${{ github.event.issue.number }}
+          add-paths: data/*.yaml
+          commit-message: "Add deal from #${{ github.event.issue.number }}"
+          title: "Add deal from #${{ github.event.issue.number }}"
+          body-path: pr-body.md
+          labels: deal-submission
+          committer: Markdown <41898282+github-actions[bot]@users.noreply.github.com>
+          author: Markdown <41898282+github-actions[bot]@users.noreply.github.com>
+          delete-branch: true
+
+      - name: Report back on the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          PR_URL: ${{ steps.pr.outputs.pull-request-url }}
+          STATUS: ${{ job.status }}
+        run: |
+          if [ "$STATUS" = "success" ] && [ -n "$PR_URL" ]; then
+            gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" \
+              --body "Thanks! This is queued for the list in $PR_URL and goes live after a final review."
+          else
+            {
+              echo "This couldn't be added automatically. Here's what the check found:"
+              echo
+              echo '```'
+              cat intake-error.md validate.log 2>/dev/null | tail -n 40
+              echo '```'
+              echo
+              echo "Open a new submission with the fix, or reply and I'll sort it out by hand."
+            } > comment.md
+            gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file comment.md
+            gh issue edit "$ISSUE" --repo "$GITHUB_REPOSITORY" --remove-label approved || true
+          fi
