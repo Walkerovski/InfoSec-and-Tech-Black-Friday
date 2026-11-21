@@ -403,6 +403,14 @@ sections:
         focus: "Red / Cloud"
         notes: "Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE)."  
                
+      - vendor: 8kSec Academy
+        url: https://academy.8ksec.io/
+        deal: 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR)
+        code: "8KSECBLACKFRIDAY"
+        ends: 2026-12-04
+        focus: Red / AI
+        via: "@sandra44dev"
+
   - id: labs
     title: Practical Labs
     emoji: 🧪
