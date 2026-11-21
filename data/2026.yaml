@@ -494,7 +494,17 @@ sections:
         code:
         ends: 2026-11-30
         notes: Bundles live now; main sale starts Nov 19. 30-day price guarantee.  
-        
+      - vendor: System76
+        url: https://system76.com/
+        deal: "Up to $257 off selected models"
+        ends: 2026-11-23
+        notes: "Linux laptops and desktops. US customers only."
+      - vendor: Zima
+        url: https://shop.zimaspace.com/
+        deal: "10-20% off ZimaBoard and ZimaCube, some with free accessories"
+        ends: 2026-11-30
+        notes: "x86 single-board servers. Good firewall and NAS builds."  
+        used: true
   - id: maker
     title: 3D Printing & Maker
     emoji: 🖨️
@@ -605,8 +615,16 @@ sections:
     deals: 
       - vendor: Proton Mail
         url: https://proton.me/mail/black-friday
-        deal: 50% off annual subscription
+        deal: "50% off Mail Plus or Proton Unlimited for a year; Unlimited first month $1"
         ends: 2026-11-30
+        notes: "Mail Plus $2.49/mo, Unlimited $6.49/mo billed annually. Unlimited includes Mail, VPN, Pass, Drive. 30-day money-back guarantee."
+        used: true
+      - vendor: Proton Drive
+        url: https://proton.me/drive/pricing
+        deal: "60% off Drive Plus, first year"
+        ends: 2026-11-30
+        focus: Privacy
+        notes: "Encrypted cloud storage."
         used: true
       - vendor: Kinsta
         url: https://kinsta.com/black-friday/
