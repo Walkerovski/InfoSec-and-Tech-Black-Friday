@@ -21,7 +21,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 ## Contribute
 
-Know a deal that belongs here? Add it to [`data/{{year}}.yaml`](data/{{year}}.yaml) and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) has the format, and it's only a few lines of YAML. Please don't edit this README directly, since it's generated. No affiliate or tracking links.
+Know a deal that belongs here? [Submit it with the deal form](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday/issues/new?template=deal.yml). Quick and no code. If you'd rather open a pull request, add it to `data/{{year}}.yaml` and follow [CONTRIBUTING.md](CONTRIBUTING.md). Please don't edit this README directly, since it's generated. No affiliate links, tracking links, or payment links.
 
 ## Machine-readable feed
 
