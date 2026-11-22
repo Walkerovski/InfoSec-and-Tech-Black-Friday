@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-22T19:42:35+00:00",
+  "generated": "2026-11-22T19:44:48+00:00",
   "deals": [
     {
       "section": "tools",
@@ -368,6 +368,26 @@
       "focus": "Red",
       "notes": "Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.",
       "via": "wagiro",
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "tools",
+      "section_title": "Tools",
+      "vendor": "S4E",
+      "url": "https://s4e.io/black-friday",
+      "deal": "60% off a full year of S4E Pro ($1,428 → $571.20, about $47.60/mo)",
+      "codes": [
+        "BLACKFRIDAY2026"
+      ],
+      "starts": null,
+      "ends": "2026-12-01",
+      "ends_note": "23:59 UTC",
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": "Continuous attack surface protection for your websites, domains and IP addresses. 24/7 change-aware monitoring with 12,000+ continuously updated checks, new CVE matching and instant email alerts, AI fix recommendations, dark web and credential integrations, full scan history and a weekly risk summary. Pro covers 1 continuously protected asset. New annual subscriptions only, discount applies to the first year; the code is applied automatically at checkout. Free plan and free online scanners also available.",
+      "via": "Eren-Akdag",
       "taken": false,
       "used": false
     },
