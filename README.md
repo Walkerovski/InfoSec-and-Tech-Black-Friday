@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**98 active deals** of 98 listed
+**99 active deals** of 99 listed
 
-_Last updated: Nov 22, 2026 08:22 PST_
+_Last updated: Nov 22, 2026 11:42 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -175,6 +175,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
 | [Spaceship](https://www.spaceship.com/) | .com for $3.60 first year | `COM67` | Nov 2 – Dec 4 | general | Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there. |
 | [anon.li](https://anon.li/) | 40% off for 12 months | `BLKFRI40` | Dec 6 | Privacy | Email aliasing to keep your real address out of signups. |
+| [Wortell](https://insights.wortell.nl/table-top) | Free facilitated cybersecurity tabletop exercise for organisations | — | Ongoing | Blue | Realistic cyber crisis simulation to assess incident response readiness, with a recommendations report and proof of completion for audit purposes. No code needed, request via the landing page. Limited-time offer, no end date published. |
 
 ## Contribute
 
