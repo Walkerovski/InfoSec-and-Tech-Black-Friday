@@ -402,6 +402,12 @@ sections:
         ends_note: "23:59 EET"
         focus: "Red / Cloud"
         notes: "Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE)."  
+      - vendor: Zero-Point Security
+        url: https://www.zeropointsecurity.co.uk/courses
+        deal: "40% off courses, applied at checkout"
+        ends: 2026-11-30
+        focus: Red
+        notes: "Red team training, including CRTO. Discount applied at checkout, no code."           
       - vendor: 8kSec Academy
         url: https://academy.8ksec.io/
         deal: 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR)
@@ -449,13 +455,7 @@ sections:
         ends_note: "23:59 UTC"
         focus: Security / AI
         notes: 200+ hands-on AI security labs (prompt injection, RAG, agents, MCP). Code applies automatically at checkout.
-      - vendor: Zero-Point Security
-        url: https://www.zeropointsecurity.co.uk/courses
-        deal: "40% off courses, applied at checkout"
-        ends: 2026-11-30
-        focus: Red
-        notes: "Red team training, including CRTO. Discount applied at checkout, no code."  
-      
+            
   - id: hardware
     title: Hardware
     emoji: 🔧
