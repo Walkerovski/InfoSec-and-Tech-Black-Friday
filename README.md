@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**91 active deals** of 91 listed
+**92 active deals** of 92 listed
 
-_Last updated: Nov 21, 2026 18:06 PST_
+_Last updated: Nov 21, 2026 18:45 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -80,6 +80,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Zero-Point Security](https://www.zeropointsecurity.co.uk/courses) | 40% off courses, applied at checkout | — | Nov 30 | Red | Red team training, including CRTO. Discount applied at checkout, no code. |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
 | [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue / Networking | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
+| [Invoke RE](https://training.invokere.com/pricing) | 20% Off All Courses | — | Dec 1 | Blue | Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year. |
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | 10% off ISC2 courses, Express Courses and certificates; members get 20% | — | Dec 1 | Blue | Training only, not exam vouchers. Applied in cart, no code. |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
