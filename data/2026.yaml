@@ -191,6 +191,15 @@ sections:
         focus: Blue / Dev / Networking
         notes: "Self-hosted PKI and private Certificate Authority management platform. ACME automation, TLS/mTLS certificates, HSM integration, certificate lifecycle management and offline root CA support. [GitHub](https://github.com/EnigmaIS/myOwnCA). Apply the code at checkout."
         via: "@Walkerovski"
+      - vendor: S4E
+        url: https://s4e.io/black-friday
+        deal: "60% off a full year of S4E Pro ($1,428 → $571.20, about $47.60/mo)"
+        code: "BLACKFRIDAY2026"
+        ends: 2026-12-01
+        ends_note: "23:59 UTC"
+        focus: Blue
+        notes: "Continuous attack surface protection for your websites, domains and IP addresses. 24/7 change-aware monitoring with 12,000+ continuously updated checks, new CVE matching and instant email alerts, AI fix recommendations, dark web and credential integrations, full scan history and a weekly risk summary. Pro covers 1 continuously protected asset. New annual subscriptions only, discount applies to the first year; the code is applied automatically at checkout. Free plan and free online scanners also available."
+        via: "@Eren-Akdag"
       
   - id: courses
     title: Courses & Training
@@ -767,3 +776,9 @@ sections:
         ends: 2026-12-06
         focus: "Privacy"
         notes: "Email aliasing to keep your real address out of signups."  
+      - vendor: Wortell
+        url: https://insights.wortell.nl/table-top
+        deal: Free facilitated cybersecurity tabletop exercise for organisations
+        evergreen: true
+        focus: Blue
+        notes: "Realistic cyber crisis simulation to assess incident response readiness, with a recommendations report and proof of completion for audit purposes. No code needed, request via the landing page. Limited-time offer, no end date published."
