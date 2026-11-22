@@ -758,3 +758,9 @@ sections:
         ends: 2026-12-06
         focus: "Privacy"
         notes: "Email aliasing to keep your real address out of signups."  
+      - vendor: Wortell
+        url: https://insights.wortell.nl/table-top
+        deal: Free facilitated cybersecurity tabletop exercise for organisations
+        evergreen: true
+        focus: Blue
+        notes: "Realistic cyber crisis simulation to assess incident response readiness, with a recommendations report and proof of completion for audit purposes. No code needed, request via the landing page. Limited-time offer, no end date published."
