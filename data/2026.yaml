@@ -415,6 +415,12 @@ sections:
         ends: 2026-12-04
         focus: Red / AI
         via: "@sandra44dev"
+      - vendor: Invoke RE
+        url: https://training.invokere.com/pricing
+        deal: 20% Off All Courses
+        ends: 2026-12-01
+        focus: Blue
+        notes: Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year.
 
   - id: labs
     title: Practical Labs

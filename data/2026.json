@@ -3,7 +3,7 @@
   "year": 2026,
   "source": "https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday",
   "license": "CC-BY-4.0",
-  "generated": "2026-11-22T02:06:54+00:00",
+  "generated": "2026-11-22T02:45:04+00:00",
   "deals": [
     {
       "section": "tools",
@@ -960,6 +960,24 @@
       "focus": "Red / AI",
       "notes": null,
       "via": "sandra44dev",
+      "taken": false,
+      "used": false
+    },
+    {
+      "section": "courses",
+      "section_title": "Courses & Training",
+      "vendor": "Invoke RE",
+      "url": "https://training.invokere.com/pricing",
+      "deal": "20% Off All Courses",
+      "codes": [],
+      "starts": null,
+      "ends": "2026-12-01",
+      "ends_note": null,
+      "evergreen": false,
+      "ended": false,
+      "focus": "Blue",
+      "notes": "Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year.",
+      "via": null,
       "taken": false,
       "used": false
     },
