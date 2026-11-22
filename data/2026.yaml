@@ -195,6 +195,21 @@ sections:
         ends_note: until Dec 2, 08:00 UTC
         focus: Networking
         via: "@oripka"
+      - vendor: Centri (formerly Security Blue Team)
+        url: https://centri.org/black-friday
+        deal: "Up to 40% off: BTL2 and CSOM 40%, CDEA 20%, BTL1 and CPTA 10%; bundle at £699"
+        starts: 2026-11-27
+        ends: 2026-12-04
+        focus: "Blue"
+        notes: "Blue team certifications, including BTL1. No code needed."
+      - vendor: 7ASecurity
+        url: https://7asecurity.com/
+        deal: "50% off self-paced courses"
+        code: "BFCM50"
+        starts: 2026-11-17
+        ends: 2026-12-10
+        focus: "Red / AppSec"
+        notes: "Mobile and web app security training from a pentest firm."  
       - vendor: AppSec.training
         url: https://appsec.training
         deal: 50% off
@@ -421,6 +436,21 @@ sections:
         ends: 2026-12-01
         focus: Blue
         notes: Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year.
+      - vendor: GIAC
+        url: https://www.giac.org/
+        deal: "30% off select GIAC products"
+        starts: 2026-11-24
+        ends: 2026-12-01
+        ends_note: "end date not published, recheck"
+        focus: "Blue / Red"
+        notes: "Rare GIAC discount. SANS training itself isn't on sale, based on wording."
+      - vendor: SEKTOR7
+        url: https://sektor7.institute/
+        deal: "Up to 40% off courses"
+        ends: 2026-11-30
+        ends_note: "end date not published, recheck"
+        focus: "Red"
+        notes: "Malware development and red team tradecraft courses."  
 
   - id: labs
     title: Practical Labs
@@ -517,15 +547,22 @@ sections:
         notes: Bundles live now; main sale starts Nov 19. 30-day price guarantee.  
       - vendor: System76
         url: https://system76.com/
-        deal: "Up to $257 off selected models"
+        deal: "Up to $200 off selected models"
         ends: 2026-11-23
         notes: "Linux laptops and desktops. US customers only."
       - vendor: Zima
         url: https://shop.zimaspace.com/
-        deal: "10-20% off ZimaBoard and ZimaCube, some with free accessories"
+        deal: "$15-60 off ZimaBoard and ZimaCube.
         ends: 2026-11-30
         notes: "x86 single-board servers. Good firewall and NAS builds."  
         used: true
+      - vendor: ORICO
+        url: https://oricotechs.com/pages/black-friday-2026
+        deal: "15-20% off NAS and DAS, plus spend-more tiers"
+        ends: 2026-12-07
+        ends_note: "11:59 PM PST"
+        notes: "Storage enclosures and small NAS units for homelab builds. No code. Cart-tier discounts don't apply to NAS or enclosures."
+        
   - id: maker
     title: 3D Printing & Maker
     emoji: 🖨️
@@ -714,3 +751,10 @@ sections:
         ends: 2026-12-01
         focus: General
         notes: Personal plans only, not business.  
+      - vendor: anon.li
+        url: https://anon.li/
+        deal: "40% off for 12 months"
+        code: "BLKFRI40"
+        ends: 2026-12-06
+        focus: "Privacy"
+        notes: "Email aliasing to keep your real address out of signups."  
