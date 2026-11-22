@@ -402,7 +402,6 @@ sections:
         ends_note: "23:59 EET"
         focus: "Red / Cloud"
         notes: "Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE)."  
-               
       - vendor: 8kSec Academy
         url: https://academy.8ksec.io/
         deal: 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR)
@@ -410,6 +409,12 @@ sections:
         ends: 2026-12-04
         focus: Red / AI
         via: "@sandra44dev"
+      - vendor: Invoke RE
+        url: https://training.invokere.com/pricing
+        deal: 20% Off All Courses
+        ends: 2026-12-01
+        focus: Blue
+        notes: Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year.
 
   - id: labs
     title: Practical Labs
