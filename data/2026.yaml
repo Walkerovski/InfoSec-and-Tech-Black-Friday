@@ -182,6 +182,15 @@ sections:
         focus: Red
         notes: Standalone vulnerability scanner written in Go for Linux, macOS and Windows, no Burp Suite required. REST API and MCP integration for AI agents.
         via: "@wagiro"
+      - vendor: EnigmaIS
+        url: https://myownca.com/
+        deal: 80% off Starter Pack
+        code: "BLACK-FRIDAY-2026-STARTER-80"
+        starts: 2026-11-22
+        ends: 2026-12-02
+        focus: Blue / Dev / Networking
+        notes: "Self-hosted PKI and private Certificate Authority management platform. ACME automation, TLS/mTLS certificates, HSM integration, certificate lifecycle management and offline root CA support. [GitHub](https://github.com/EnigmaIS/myOwnCA). Apply the code at checkout."
+        via: "@Walkerovski"
       
   - id: courses
     title: Courses & Training
