@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**92 active deals** of 92 listed
+**98 active deals** of 98 listed
 
-_Last updated: Nov 21, 2026 18:45 PST_
+_Last updated: Nov 22, 2026 08:22 PST_
 
 _Building something with this list? There's a [JSON feed](#machine-readable-feed)._
 
@@ -73,22 +73,26 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Red Team LLC](https://redteam.vip) | Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799 | — | Nov 30 | Red | Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1. · via [@DavidProbinsky](https://github.com/DavidProbinsky) |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% off hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [SecurityPaths Academy](https://academy.securitypaths.com/courses) | 25% off Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP) | `blackfriday26` | Nov 21 – Nov 30 | Red | Formerly WiFi Challenge Academy. Wi-Fi pentesting and recon courses with labs, exam and certification. Code auto-applied at checkout. · via [@six2dez](https://github.com/six2dez) |
+| [SEKTOR7](https://sektor7.institute/) | Up to 40% off courses | — | Nov 30 (end date not published, recheck) | Red | Malware development and red team tradecraft courses. |
 | [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
 | [The SecOps Group (PentestingExams)](https://pentestingexams.com/) | 90% off all pentesting certification exams | `BF-90` | Nov 30 | Red | Exam vouchers only, not training. Discount is big enough to DYOR on the exam terms. |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% off hacking labs and certifications | — | Nov 30 | Red |  |
 | [Zero-Point Security](https://www.zeropointsecurity.co.uk/courses) | 40% off courses, applied at checkout | — | Nov 30 | Red | Red team training, including CRTO. Discount applied at checkout, no code. |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off course bundles, individual certifications starting at $5, and Infinity Yearly Access for $49 with 2 free certifications and [More](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | `INFINITY49 (Yearly), INFINITY5 (Monthly)` | Dec 1 | Red Team, Blue Team, Cloud Security, AI Security | via [@RedTeamOperations](https://github.com/RedTeamOperations) |
+| [GIAC](https://www.giac.org/) | 30% off select GIAC products | — | Nov 24 – Dec 1 (end date not published, recheck) | Blue / Red | Rare GIAC discount. SANS training itself isn't on sale, based on wording. |
 | [INE](https://learn.ine.com/2026-black-friday-promotions) | Premium annual $499 (reg. $799), Premium + Skill Dive $649, Fundamentals $229, $101 off eJPT and $151 off other exam vouchers | — | Nov 20 – Dec 1 | Red / Blue / Networking | Auto-applied at checkout, no code. Premium and Fundamentals pricing is for new subscribers only and renews at full price. Vouchers expire 180 days after purchase. ICCA excluded. |
 | [Invoke RE](https://training.invokere.com/pricing) | 20% Off All Courses | — | Dec 1 | Blue | Malware analysis training with practical labs, walkthroughs, video and written materials. Discount applied at checkout. Courses are lifetime access. Binary Ninja courses provide Binary Ninja license for one year. |
 | [ISC2](https://www.isc2.org/training/black-friday-cyber-week-sale) | 10% off ISC2 courses, Express Courses and certificates; members get 20% | — | Dec 1 | Blue | Training only, not exam vouchers. Applied in cart, no code. |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [8kSec Academy](https://academy.8ksec.io/) | 15% off all on-demand mobile & AI security courses (CAISR, CMSE, OMSE, CISR, CASR) | `8KSECBLACKFRIDAY` | Dec 4 | Red / AI | via [@sandra44dev](https://github.com/sandra44dev) |
+| [Centri (formerly Security Blue Team)](https://centri.org/black-friday) | Up to 40% off: BTL2 and CSOM 40%, CDEA 20%, BTL1 and CPTA 10%; bundle at £699 | — | Nov 27 – Dec 4 | Blue | Blue team certifications, including BTL1. No code needed. |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [CloudBreach](https://cloudbreach.io/blackfriday) | 30% off all courses and plans (Breaching Azure from $349, Breaching AWS from $419) | `BlackFriday26` | Dec 7 (23:59 EET) | Red / Cloud | Offensive Azure and AWS labs with practical, report-based certs (OASP, OAWSP, OASE). |
 | [Hexordia](https://learn.hexordia.com/s/store) | 35% off Hexordia classes and class vouchers | `26BF35` | Nov 23 – Dec 7 (11:59 PM ET) | Blue | Applies to on-demand and virtual live classes and to class vouchers. |
+| [7ASecurity](https://7asecurity.com/) | 50% off self-paced courses | `BFCM50` | Nov 17 – Dec 10 | Red / AppSec | Mobile and web app security training from a pentest firm. |
 | [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red | Offensive focused training and certifications |
 | [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
 | [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue | Learn One is a year of access to one course plus exam attempts. |
@@ -107,7 +111,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
-| [System76](https://system76.com/) | Up to $257 off selected models | — | Nov 23 | Linux laptops and desktops. US customers only. |
+| [System76](https://system76.com/) | Up to $200 off selected models | — | Nov 23 | Linux laptops and desktops. US customers only. |
 | [GL.iNet](https://www.gl-inet.com/en-us/pages/early-black-friday) | Up to 20% off routers, Comet remote KVMs and travel routers | — | Nov 19 – Nov 30 | OpenWrt-based routers and remote KVMs. Handy for out-of-band access to lab hardware. |
 | [Hak5](https://hak5.org/pages/hacked-november) ✨ | Discount varies, see site | — | Nov 30 | Pentest and red team gadgets. |
 | [KSEC Labs (UK) and KSEC EU](https://labs.ksec.co.uk/black-friday-sale/) | Spend and save up to £300 off, free gifts, 3 for 2 on RFID cards, deal prices on RFID and lock picking kits | — | Nov 23 – Nov 30 | EU store: [eu.ksec.co.uk](https://eu.ksec.co.uk/black-friday-sale/), up to €250 off. Members get early access from 23 Nov, everyone from 27 Nov · via [@Kaicastledine](https://github.com/Kaicastledine) |
@@ -115,9 +119,10 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [UGREEN NAS](https://ai.ugreen.com/pages/ugreen-nas-black-friday-deals) | Up to 31% off NAS, up to 32% off NAS + UPS bundles (DXP4800GT $527.99, DXP2800GT $349.99) | — | Nov 30 | Bundles live now; main sale starts Nov 19. 30-day price guarantee. |
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) ✨ | Discount varies, see site | — | Nov 30 | Networking gear that’s popular for homelabs and SMB. |
 | [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) ✨ | Mix and match up to four total keys from the YubiKey 5 Series, YubiKey Bio Series, and Security Key Series with 15% off through November 30, 2026. | — | Nov 19 – Nov 30 |  |
-| [Zima](https://shop.zimaspace.com/) ✨ | 10-20% off ZimaBoard and ZimaCube, some with free accessories | — | Nov 30 | x86 single-board servers. Good firewall and NAS builds. |
+| [Zima](https://shop.zimaspace.com/) ✨ | $15-60 off ZimaBoard and ZimaCube. | — | Nov 30 | x86 single-board servers. Good firewall and NAS builds. |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Discount varies daily, see site | — | Dec 1 | refurb phones and hardware for labs |
 | [Geekom](https://www.geekompc.com/black-friday/) | Discount varies daily, see site | — | Dec 1 | Great compact homelab boxes |
+| [ORICO](https://oricotechs.com/pages/black-friday-2026) | 15-20% off NAS and DAS, plus spend-more tiers | — | Dec 7 (11:59 PM PST) | Storage enclosures and small NAS units for homelab builds. No code. Cart-tier discounts don't apply to NAS or enclosures. |
 
 ## 3D Printing & Maker
 
@@ -169,6 +174,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 | [Incogni](https://incogni.com/) | 58% off annual plans | `BFCM26` | Dec 4 | Privacy | Data broker removal service. Useful for exec and personal exposure reduction. |
 | [Porkbun](https://porkbun.com/) | Rolling Black Friday deals, new drops Nov 19, 23 and 27 | — | Dec 4 | general | Flat pricing with cheap renewals all year. .com not discounted yet; check back after each drop. |
 | [Spaceship](https://www.spaceship.com/) | .com for $3.60 first year | `COM67` | Nov 2 – Dec 4 | general | Domain for that project you probably won't start for a while. One per customer, new registrations only. Renews at ~$10.68 + ICANN fee, one of the lowest renewals out there. |
+| [anon.li](https://anon.li/) | 40% off for 12 months | `BLKFRI40` | Dec 6 | Privacy | Email aliasing to keep your real address out of signups. |
 
 ## Contribute
 
